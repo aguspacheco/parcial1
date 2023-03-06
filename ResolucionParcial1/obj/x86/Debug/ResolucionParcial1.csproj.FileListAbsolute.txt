@@ -1,0 +1,9 @@
+C:\Users\msantander\documents\visual studio 2010\Projects\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.exe
+C:\Users\msantander\documents\visual studio 2010\Projects\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.pdb
+C:\Users\msantander\documents\visual studio 2010\Projects\ResolucionParcial1\ResolucionParcial1\obj\x86\Debug\ResolucionParcial1.exe
+C:\Users\msantander\documents\visual studio 2010\Projects\ResolucionParcial1\ResolucionParcial1\obj\x86\Debug\ResolucionParcial1.pdb
+C:\Users\cliente\Desktop\Universidad\Laboratorio y lenguajes\Practica\ResolucionParcial1 C#\ResolucionParcial1\ResolucionParcial1\obj\x86\Debug\ResolucionParcial1.exe
+C:\Users\cliente\Desktop\Universidad\Laboratorio y lenguajes\Practica\ResolucionParcial1 C#\ResolucionParcial1\ResolucionParcial1\obj\x86\Debug\ResolucionParcial1.pdb
+C:\Users\cliente\Desktop\Universidad\Laboratorio y lenguajes\Practica\ResolucionParcial1 C#\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.exe
+C:\Users\cliente\Desktop\Universidad\Laboratorio y lenguajes\Practica\ResolucionParcial1 C#\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.pdb
+C:\Users\cliente\Desktop\Universidad\Laboratorio y lenguajes\Practica\ResolucionParcial1 C#\ResolucionParcial1\ResolucionParcial1\obj\x86\Debug\ResolucionParcial1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\msantander\AppData\Local\Temporary Projects\ResolucionParcial\bin\Release\ResolucionParcial.exe
+C:\Users\msantander\AppData\Local\Temporary Projects\ResolucionParcial\bin\Release\ResolucionParcial.pdb
+C:\Users\msantander\AppData\Local\Temporary Projects\ResolucionParcial\obj\x86\Release\ResolucionParcial.exe
+C:\Users\msantander\AppData\Local\Temporary Projects\ResolucionParcial\obj\x86\Release\ResolucionParcial.pdb
